@@ -9,5 +9,13 @@
             "registered_at": 1776934731
         }
     },
-    "steals": {}
+    "steals": {
+        "1462319020211441691": [
+            {
+                "pet": "La Grande Combinasion",
+                "value": "$92.5M",
+                "time": 1776934744
+            }
+        ]
+    }
 }
