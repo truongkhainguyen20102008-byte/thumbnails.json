@@ -20,6 +20,11 @@
                 "pet": "Gangster Footera",
                 "value": "$30",
                 "time": 1776935193
+            },
+            {
+                "pet": "Debug Pet",
+                "value": "$999",
+                "time": 1776935310
             }
         ],
         "roblox:TestUser": [
