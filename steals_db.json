@@ -25,6 +25,11 @@
                 "pet": "Debug Pet",
                 "value": "$999",
                 "time": 1776935310
+            },
+            {
+                "pet": "Debug Pet",
+                "value": "$999",
+                "time": 1776935389
             }
         ],
         "roblox:TestUser": [
