@@ -16,6 +16,13 @@
                 "value": "$92.5M",
                 "time": 1776934744
             }
+        ],
+        "roblox:TestUser": [
+            {
+                "pet": "Test Pet",
+                "value": "$1,000",
+                "time": 1776934841
+            }
         ]
     }
 }
