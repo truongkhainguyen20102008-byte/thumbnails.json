@@ -21,6 +21,7 @@
     ["Halo"]               = "<:Halo:1499796905314484435>",
     ["Indonesia"]          = "<:Indonesia:1499796985564369056>",
     ["Jack O'Lantern Pet"] = "<:Jack_O_Lantern_Pet:1499796906212327455>",
+    ["Lightning"]          = "<:Lightning:1494503553207636078>",
     ["Lucky"]              = "<:Lucky:1499796906719711294>",
     ["Matteo Hat"]         = "<:Matteo_Hat:1499796968707326143>",
     ["Meowl"]              = "<:Meowl:1499796889346904124>",
