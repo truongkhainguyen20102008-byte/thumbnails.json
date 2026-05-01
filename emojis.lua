@@ -26,6 +26,7 @@
     ["Meowl"]              = "<:Meowl:1499796889346904124>",
     ["Nyan"]               = "<:Nyan:1499797020741992530>",
     ["Orange Balloon"]     = "<:Orange_Balloon:1499796937841442827>",
+    ["OrangeEgg"]          = "<:OrangeEgg:1494518528211030126>",
     ["Paint"]              = "<:Paint:1499796970846556272>",
     ["Pink Balloon"]       = "<:Pink_Balloon:1499796937770012915>",
     ["Rainbow Balloon"]    = "<:Rainbow_Balloon:1499796955004403822>",
