@@ -29,6 +29,7 @@
     ["OrangeEgg"]          = "<:OrangeEgg:1494518528211030126>",
     ["Paint"]              = "<:Paint:1499796970846556272>",
     ["Pink Balloon"]       = "<:Pink_Balloon:1499796937770012915>",
+    ["PinkEgg"]            = "<:PinkEgg:1494518547395776533>",
     ["Rainbow Balloon"]    = "<:Rainbow_Balloon:1499796955004403822>",
     ["Red Balloon"]        = "<:Red_Balloon:1499796938642686133>",
     ["Reindeer Pet"]       = "<:Reindeer_Pet:1499796891058044958>",
