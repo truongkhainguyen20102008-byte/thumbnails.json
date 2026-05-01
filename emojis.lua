@@ -16,6 +16,7 @@
     ["Glitched"]           = "<:Glitched:1499797018577469595>",
     ["Granny"]             = "<:Granny:1499797002978988274>",
     ["Green Balloon"]      = "<:Green_Balloon:1499796937816408184>",
+    ["GreenEgg"]           = "<:GreenEgg:1494518529146355755>",
     ["Halo"]               = "<:Halo:1499796905314484435>",
     ["Indonesia"]          = "<:Indonesia:1499796985564369056>",
     ["Jack O'Lantern Pet"] = "<:Jack_O_Lantern_Pet:1499796906212327455>",
