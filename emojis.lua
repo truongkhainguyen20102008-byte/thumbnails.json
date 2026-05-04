@@ -9,6 +9,7 @@
     ["Bunny Ears"]         = "<:Bunny_Ears:1500827853946880202>",
     ["Candy"]              = "<:Candy:1500823347972411484>",
     ["Chocolate"]          = "<:Chocolate:1500827817259044878>",
+    ["Cometstruck"]        = "<:Cometstruck:1494503505308942466>",
     ["Crab Claw"]          = "<:Crab_Claw:1500828062387015791>",
     ["Cursed"]             = "<:Cursed:1500823388371947571>",
     ["Cyber"]              = "<:Cyber:1500823411608256592>",
