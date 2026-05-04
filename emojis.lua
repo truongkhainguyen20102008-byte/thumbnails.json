@@ -53,6 +53,7 @@
     ["Skeleton"]           = "<:Skeleton:1500827871420354721>",
     ["Skibidi"]            = "<:Skibidi:1500827817934323753>",
     ["Sleepy"]             = "<:Sleepy:1500828109853954081>",
+    ["Snowy"]              = "<:Snowy:1494503626280800327>",
     ["Sombrero"]           = "<:Sombrero:1500828024583491664>",
     ["Spider"]             = "<:Spider:1500827967855657041>",
     ["Strawberry"]         = "<:Strawberry:1500827795822084177>",
