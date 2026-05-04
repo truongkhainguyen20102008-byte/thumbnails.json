@@ -42,6 +42,7 @@
     ["Pink Balloon"]       = "<:Pink_Balloon:1499796937770012915>",
     ["PinkEgg"]            = "<:PinkEgg:1494518547395776533>",
     ["Radioactive"]        = "<:Radioactive:1500791253229502525>",
+    ["Rainbow"]            = "<:Rainbow:1499781038929346775>",
     ["Rainbow Balloon"]    = "<:Rainbow_Balloon:1499796955004403822>",
     ["Red Balloon"]        = "<:Red_Balloon:1499796938642686133>",
     ["Reindeer Pet"]       = "<:Reindeer_Pet:1499796891058044958>",
